@@ -1,0 +1,5 @@
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\x64\Debug\CarWashing.vcxproj.AssemblyReference.cache
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\x64\Debug\CarWashing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\x64\Debug\CarWashing.CarWashing.resources
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\x64\Debug\CarWashing.vcxproj.GenerateResource.cache
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\x64\Debug\CarWashing.Low.resources

@@ -1,0 +1,4 @@
+The images are in the car washing Project folder -> images Folder
+
+So You need to up date the paths to work it properly as it not enough time to update them internally.
+The Picture will show the path.

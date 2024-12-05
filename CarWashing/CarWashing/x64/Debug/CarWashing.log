@@ -1,0 +1,7 @@
+﻿  CarWashing.cpp
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\Low.h(34,6): warning C4677: 'Low': signature of non-private member contains assembly private type 'BST'
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\tree.h(23,11): message : see declaration of 'BST'
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\Low.h(34,6): warning C4677: 'Low': signature of non-private member contains assembly private type 'circularQueue'
+C:\Users\A$iri\source\repos\CarWashing\CarWashing\circularQueue.h(5,11): message : see declaration of 'circularQueue'
+  CarWashing.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CarWashing.vcxproj -> C:\Users\A$iri\source\repos\CarWashing\x64\Debug\CarWashing.exe
